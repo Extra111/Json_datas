@@ -1,0 +1,3561 @@
+[
+  {
+    "helmetNumber": "113.",
+    "id": "3480",
+    "name": "OGULEVICIUS Adomas",
+    "bestTimes": {
+      "111,12 m": "15.470",
+      "222 m": "24.621",
+      "333 m": "35.467",
+      "500 m": "46.378",
+      "777 m": "1:18.304",
+      "1000 m": "1:38.846",
+      "1500 m": "2:34.287"
+    },
+    "Gender": "Men",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "SSC"
+  },
+  {
+    "helmetNumber": "110.",
+    "id": "5005",
+    "name": "STOROZHUK Amina",
+    "bestTimes": {
+      "111,12 m": "14.183",
+      "222 m": "23.401",
+      "333 m": "34.415",
+      "500 m": "46.330",
+      "777 m": "1:14.857",
+      "1000 m": "1:38.792",
+      "1500 m": "2:47.122"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "103.",
+    "id": "4927",
+    "name": "SZABÓ Jázmin",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "26.946",
+      "333 m": "33.320",
+      "500 m": "48.582",
+      "777 m": "1:18.524",
+      "1000 m": "1:42.783",
+      "1500 m": "3:01.734"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "101.",
+    "id": "4074",
+    "name": "PAPOUŠKOVÁ Marta",
+    "bestTimes": {
+      "111,12 m": "15.158",
+      "222 m": "26.073",
+      "333 m": "37.558",
+      "500 m": "49.129",
+      "777 m": "1:17.337",
+      "1000 m": "1:43.818",
+      "1500 m": "2:45.955"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "STCZ"
+  },
+  {
+    "helmetNumber": "116.",
+    "id": "4601",
+    "name": "HARKABUS Marek",
+    "bestTimes": {
+      "111,12 m": "18.183",
+      "222 m": "25.930",
+      "333 m": "37.584",
+      "500 m": "47.928",
+      "777 m": "1:16.281",
+      "1000 m": "1:41.077",
+      "1500 m": "2:42.596"
+    },
+    "Gender": "Men",
+    "Age": "15",
+    "AgeCategory": "Junior C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "111.",
+    "id": "6619",
+    "name": "HAVASI Dominik Olivér",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "44.773",
+      "500 m": "49.780",
+      "777 m": "1:19.432",
+      "1000 m": "1:44.825",
+      "1500 m": "2:59.364"
+    },
+    "Gender": "Men",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "106.",
+    "id": "4267",
+    "name": "BURDELAKOVA Kristina",
+    "bestTimes": {
+      "111,12 m": "16.231",
+      "222 m": "26.149",
+      "333 m": "37.954",
+      "500 m": "51.009",
+      "777 m": "1:20.909",
+      "1000 m": "1:49.299",
+      "1500 m": "3:08.092"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "107.",
+    "id": "4852",
+    "name": "ONDREJCAKOVA Katarina",
+    "bestTimes": {
+      "111,12 m": "17.031",
+      "222 m": "26.809",
+      "333 m": "37.203",
+      "500 m": "51.239",
+      "777 m": "1:23.164",
+      "1000 m": "1:51.789",
+      "1500 m": "2:53.298"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "105.",
+    "id": "6613",
+    "name": "TARGOWSKA Martyna",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "33.682",
+      "333 m": "38.375",
+      "500 m": "52.641",
+      "777 m": "1:26.995",
+      "1000 m": "1:55.907",
+      "1500 m": "3:04.214"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "104.",
+    "id": "4556",
+    "name": "ROCKA Maja",
+    "bestTimes": {
+      "111,12 m": "17.607",
+      "222 m": "26.680",
+      "333 m": "38.500",
+      "500 m": "50.346",
+      "777 m": "1:22.027",
+      "1000 m": "1:44.942",
+      "1500 m": "2:46.776"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "112.",
+    "id": "6622",
+    "name": "IVÁN Péter",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "39.533",
+      "500 m": "55.135",
+      "777 m": "1:29.122",
+      "1000 m": "1:53.843",
+      "1500 m": "3:05.584"
+    },
+    "Gender": "Men",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "109.",
+    "id": "7928",
+    "name": "SCHMOGNEROVA Karolina",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "54.561",
+      "777 m": "1:36.163",
+      "1000 m": "1:57.306",
+      "1500 m": "3:03.860"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "102.",
+    "id": "6543",
+    "name": "JÓNA Gitta",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "42.239",
+      "500 m": "55.706",
+      "777 m": "1:27.184",
+      "1000 m": "1:54.997",
+      "1500 m": "3:04.797"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "108.",
+    "id": "7321",
+    "name": "DZIEDZINOVA Lara",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "38.483",
+      "500 m": "50.750",
+      "777 m": "1:25.034",
+      "1000 m": "1:50.673",
+      "1500 m": "2:52.323"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "114.",
+    "id": "7756",
+    "name": "SUDOR Adam",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "26.824",
+      "333 m": "39.692",
+      "500 m": "55.734",
+      "777 m": "1:28.733",
+      "1000 m": "2:00.094",
+      "1500 m": "3:04.925"
+    },
+    "Gender": "Men",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "LUIG"
+  },
+  {
+    "helmetNumber": "115.",
+    "id": "5090",
+    "name": "HARKABUS Juraj",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "32.712",
+      "333 m": "43.765",
+      "500 m": "58.230",
+      "777 m": "1:33.175",
+      "1000 m": "2:03.701",
+      "1500 m": "3:16.749"
+    },
+    "Gender": "Men",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "110.",
+    "id": "5005",
+    "name": "STOROZHUK Amina",
+    "bestTimes": {
+      "111,12 m": "14.183",
+      "222 m": "23.401",
+      "333 m": "34.415",
+      "500 m": "46.330",
+      "777 m": "1:14.857",
+      "1000 m": "1:38.792",
+      "1500 m": "2:47.122"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "103.",
+    "id": "4927",
+    "name": "SZABÓ Jázmin",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "26.946",
+      "333 m": "33.320",
+      "500 m": "48.582",
+      "777 m": "1:18.524",
+      "1000 m": "1:42.783",
+      "1500 m": "3:01.734"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "101.",
+    "id": "4074",
+    "name": "PAPOUŠKOVÁ Marta",
+    "bestTimes": {
+      "111,12 m": "15.158",
+      "222 m": "26.073",
+      "333 m": "37.558",
+      "500 m": "49.129",
+      "777 m": "1:17.337",
+      "1000 m": "1:43.818",
+      "1500 m": "2:45.955"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "STCZ"
+  },
+  {
+    "helmetNumber": "106.",
+    "id": "4267",
+    "name": "BURDELAKOVA Kristina",
+    "bestTimes": {
+      "111,12 m": "16.231",
+      "222 m": "26.149",
+      "333 m": "37.954",
+      "500 m": "51.009",
+      "777 m": "1:20.909",
+      "1000 m": "1:49.299",
+      "1500 m": "3:08.092"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "107.",
+    "id": "4852",
+    "name": "ONDREJCAKOVA Katarina",
+    "bestTimes": {
+      "111,12 m": "17.031",
+      "222 m": "26.809",
+      "333 m": "37.203",
+      "500 m": "51.239",
+      "777 m": "1:23.164",
+      "1000 m": "1:51.789",
+      "1500 m": "2:53.298"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "105.",
+    "id": "6613",
+    "name": "TARGOWSKA Martyna",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "33.682",
+      "333 m": "38.375",
+      "500 m": "52.641",
+      "777 m": "1:26.995",
+      "1000 m": "1:55.907",
+      "1500 m": "3:04.214"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "104.",
+    "id": "4556",
+    "name": "ROCKA Maja",
+    "bestTimes": {
+      "111,12 m": "17.607",
+      "222 m": "26.680",
+      "333 m": "38.500",
+      "500 m": "50.346",
+      "777 m": "1:22.027",
+      "1000 m": "1:44.942",
+      "1500 m": "2:46.776"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "109.",
+    "id": "7928",
+    "name": "SCHMOGNEROVA Karolina",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "54.561",
+      "777 m": "1:36.163",
+      "1000 m": "1:57.306",
+      "1500 m": "3:03.860"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "102.",
+    "id": "6543",
+    "name": "JÓNA Gitta",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "42.239",
+      "500 m": "55.706",
+      "777 m": "1:27.184",
+      "1000 m": "1:54.997",
+      "1500 m": "3:04.797"
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "108.",
+    "id": "7321",
+    "name": "DZIEDZINOVA Lara",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "38.483",
+      "500 m": "50.750",
+      "777 m": "1:25.034",
+      "1000 m": "1:50.673",
+      "1500 m": "2:52.323"
+    },
+    "Gender": "Woman",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "113.",
+    "id": "3480",
+    "name": "OGULEVICIUS Adomas",
+    "bestTimes": {
+      "111,12 m": "15.470",
+      "222 m": "24.621",
+      "333 m": "35.467",
+      "500 m": "46.378",
+      "777 m": "1:18.304",
+      "1000 m": "1:38.846",
+      "1500 m": "2:34.287"
+    },
+    "Gender": "Men",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "SSC"
+  },
+  {
+    "helmetNumber": "116.",
+    "id": "4601",
+    "name": "HARKABUS Marek",
+    "bestTimes": {
+      "111,12 m": "18.183",
+      "222 m": "25.930",
+      "333 m": "37.584",
+      "500 m": "47.928",
+      "777 m": "1:16.281",
+      "1000 m": "1:41.077",
+      "1500 m": "2:42.596"
+    },
+    "Gender": "Men",
+    "Age": "15",
+    "AgeCategory": "Junior C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "111.",
+    "id": "6619",
+    "name": "HAVASI Dominik Olivér",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "44.773",
+      "500 m": "49.780",
+      "777 m": "1:19.432",
+      "1000 m": "1:44.825",
+      "1500 m": "2:59.364"
+    },
+    "Gender": "Men",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "112.",
+    "id": "6622",
+    "name": "IVÁN Péter",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "39.533",
+      "500 m": "55.135",
+      "777 m": "1:29.122",
+      "1000 m": "1:53.843",
+      "1500 m": "3:05.584"
+    },
+    "Gender": "Men",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "114.",
+    "id": "7756",
+    "name": "SUDOR Adam",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "26.824",
+      "333 m": "39.692",
+      "500 m": "55.734",
+      "777 m": "1:28.733",
+      "1000 m": "2:00.094",
+      "1500 m": "3:04.925"
+    },
+    "Gender": "Men",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "LUIG"
+  },
+  {
+    "helmetNumber": "115.",
+    "id": "5090",
+    "name": "HARKABUS Juraj",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "32.712",
+      "333 m": "43.765",
+      "500 m": "58.230",
+      "777 m": "1:33.175",
+      "1000 m": "2:03.701",
+      "1500 m": "3:16.749"
+    },
+    "Gender": "Men",
+    "Age": "13",
+    "AgeCategory": "Junior C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "1.",
+    "id": "7305",
+    "name": "GYÖRGY Fanni",
+    "bestTimes": {
+      "111,12 m": "16.457",
+      "222 m": "28.628",
+      "333 m": "42.308",
+      "500 m": "1:04.793",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "13.",
+    "id": "8159",
+    "name": "SPODNIKOVA Tatiana",
+    "bestTimes": {
+      "111,12 m": "15.994",
+      "222 m": "29.423",
+      "333 m": "43.177",
+      "500 m": "1:16.390",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "4.",
+    "id": "8189",
+    "name": "OCHAŁA Klara",
+    "bestTimes": {
+      "111,12 m": "16.015",
+      "222 m": "30.970",
+      "333 m": "43.243",
+      "500 m": "1:13.093",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "2.",
+    "id": "8245",
+    "name": "HODOS Bianka",
+    "bestTimes": {
+      "111,12 m": "16.603",
+      "222 m": "29.796",
+      "333 m": "42.946",
+      "500 m": "1:06.548",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "7",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "11.",
+    "id": "5825",
+    "name": "FABIANOVA Ema",
+    "bestTimes": {
+      "111,12 m": "16.402",
+      "222 m": "29.850",
+      "333 m": "43.125",
+      "500 m": "1:08.453",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "3.",
+    "id": "8244",
+    "name": "HODOS Vivien",
+    "bestTimes": {
+      "111,12 m": "17.219",
+      "222 m": "30.530",
+      "333 m": "43.272",
+      "500 m": "1:07.080",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "16.",
+    "id": "8759",
+    "name": "LESKO Tomas",
+    "bestTimes": {
+      "111,12 m": "18.294",
+      "222 m": "34.313",
+      "333 m": "52.496",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "8.",
+    "id": "8285",
+    "name": "LISSIOUID Amira",
+    "bestTimes": {
+      "111,12 m": "18.962",
+      "222 m": "37.141",
+      "333 m": "54.936",
+      "500 m": "1:26.448",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "7.",
+    "id": "8273",
+    "name": "HUTYROVA Lujza",
+    "bestTimes": {
+      "111,12 m": "20.980",
+      "222 m": "38.612",
+      "333 m": "56.724",
+      "500 m": "1:38.375",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "9.",
+    "id": "8268",
+    "name": "MINDASOVA Tilly",
+    "bestTimes": {
+      "111,12 m": "18.890",
+      "222 m": "40.039",
+      "333 m": "54.776",
+      "500 m": "1:28.875",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "15.",
+    "id": "7452",
+    "name": "BILISNANSKY Tobias",
+    "bestTimes": {
+      "111,12 m": "18.906",
+      "222 m": "37.441",
+      "333 m": "52.890",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "7",
+    "AgeCategory": "Junior G  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "14.",
+    "id": "8431",
+    "name": "HLAVATY Andrej",
+    "bestTimes": {
+      "111,12 m": "22.367",
+      "222 m": "39.752",
+      "333 m": "1:01.946",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "7",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "17.",
+    "id": "8756",
+    "name": "SARO Michal",
+    "bestTimes": {
+      "111,12 m": "21.054",
+      "222 m": "41.183",
+      "333 m": "1:04.085",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "10.",
+    "id": "7906",
+    "name": "MISCIKOVA Julia",
+    "bestTimes": {
+      "111,12 m": "21.958",
+      "222 m": "40.582",
+      "333 m": "1:02.904",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "6",
+    "AgeCategory": "Junior G",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "6.",
+    "id": "8272",
+    "name": "HUTYROVA Livia",
+    "bestTimes": {
+      "111,12 m": "26.327",
+      "222 m": "52.803",
+      "333 m": "1:14.371",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "7",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "5.",
+    "id": "8728",
+    "name": "GOLIASOVA Nina",
+    "bestTimes": {
+      "111,12 m": "24.399",
+      "222 m": "46.412",
+      "333 m": "1:11.104",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "7",
+    "AgeCategory": "Junior G  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "1.",
+    "id": "7305",
+    "name": "GYÖRGY Fanni",
+    "bestTimes": {
+      "111,12 m": "16.457",
+      "222 m": "28.628",
+      "333 m": "42.308",
+      "500 m": "1:04.793",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "13.",
+    "id": "8159",
+    "name": "SPODNIKOVA Tatiana",
+    "bestTimes": {
+      "111,12 m": "15.994",
+      "222 m": "29.423",
+      "333 m": "43.177",
+      "500 m": "1:16.390",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "4.",
+    "id": "8189",
+    "name": "OCHAŁA Klara",
+    "bestTimes": {
+      "111,12 m": "16.015",
+      "222 m": "30.970",
+      "333 m": "43.243",
+      "500 m": "1:13.093",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "2.",
+    "id": "8245",
+    "name": "HODOS Bianka",
+    "bestTimes": {
+      "111,12 m": "16.603",
+      "222 m": "29.796",
+      "333 m": "42.946",
+      "500 m": "1:06.548",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "7",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "11.",
+    "id": "5825",
+    "name": "FABIANOVA Ema",
+    "bestTimes": {
+      "111,12 m": "16.402",
+      "222 m": "29.850",
+      "333 m": "43.125",
+      "500 m": "1:08.453",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "3.",
+    "id": "8244",
+    "name": "HODOS Vivien",
+    "bestTimes": {
+      "111,12 m": "17.219",
+      "222 m": "30.530",
+      "333 m": "43.272",
+      "500 m": "1:07.080",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "8.",
+    "id": "8285",
+    "name": "LISSIOUID Amira",
+    "bestTimes": {
+      "111,12 m": "18.962",
+      "222 m": "37.141",
+      "333 m": "54.936",
+      "500 m": "1:26.448",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "7.",
+    "id": "8273",
+    "name": "HUTYROVA Lujza",
+    "bestTimes": {
+      "111,12 m": "20.980",
+      "222 m": "38.612",
+      "333 m": "56.724",
+      "500 m": "1:38.375",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "9.",
+    "id": "8268",
+    "name": "MINDASOVA Tilly",
+    "bestTimes": {
+      "111,12 m": "18.890",
+      "222 m": "40.039",
+      "333 m": "54.776",
+      "500 m": "1:28.875",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "10.",
+    "id": "7906",
+    "name": "MISCIKOVA Julia",
+    "bestTimes": {
+      "111,12 m": "21.958",
+      "222 m": "40.582",
+      "333 m": "1:02.904",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "6",
+    "AgeCategory": "Junior G",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "6.",
+    "id": "8272",
+    "name": "HUTYROVA Livia",
+    "bestTimes": {
+      "111,12 m": "26.327",
+      "222 m": "52.803",
+      "333 m": "1:14.371",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "7",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "5.",
+    "id": "8728",
+    "name": "GOLIASOVA Nina",
+    "bestTimes": {
+      "111,12 m": "24.399",
+      "222 m": "46.412",
+      "333 m": "1:11.104",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "7",
+    "AgeCategory": "Junior G  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "16.",
+    "id": "8759",
+    "name": "LESKO Tomas",
+    "bestTimes": {
+      "111,12 m": "18.294",
+      "222 m": "34.313",
+      "333 m": "52.496",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "15.",
+    "id": "7452",
+    "name": "BILISNANSKY Tobias",
+    "bestTimes": {
+      "111,12 m": "18.906",
+      "222 m": "37.441",
+      "333 m": "52.890",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "7",
+    "AgeCategory": "Junior G  Novice C",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "14.",
+    "id": "8431",
+    "name": "HLAVATY Andrej",
+    "bestTimes": {
+      "111,12 m": "22.367",
+      "222 m": "39.752",
+      "333 m": "1:01.946",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "7",
+    "AgeCategory": "Junior F  Novice C",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "17.",
+    "id": "8756",
+    "name": "SARO Michal",
+    "bestTimes": {
+      "111,12 m": "21.054",
+      "222 m": "41.183",
+      "333 m": "1:04.085",
+      "500 m": "",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "8",
+    "AgeCategory": "Junior F  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "19.",
+    "id": "5962",
+    "name": "GYÖRGY Mira",
+    "bestTimes": {
+      "111,12 m": "17.257",
+      "222 m": "25.050",
+      "333 m": "35.774",
+      "500 m": "52.814",
+      "777 m": "1:24.439",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "26.",
+    "id": "6641",
+    "name": "TOKARSKA Lena",
+    "bestTimes": {
+      "111,12 m": "15.036",
+      "222 m": "25.681",
+      "333 m": "36.455",
+      "500 m": "53.271",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "22.",
+    "id": "6481",
+    "name": "SZMETENA Maja",
+    "bestTimes": {
+      "111,12 m": "18.229",
+      "222 m": "26.819",
+      "333 m": "38.278",
+      "500 m": "57.992",
+      "777 m": "1:33.018",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "23.",
+    "id": "7310",
+    "name": "ABAKO Wiktoria",
+    "bestTimes": {
+      "111,12 m": "15.874",
+      "222 m": "26.454",
+      "333 m": "37.330",
+      "500 m": "55.799",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "20.",
+    "id": "7300",
+    "name": "KOCZA Emese",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "25.997",
+      "333 m": "38.360",
+      "500 m": "57.974",
+      "777 m": "1:34.371",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "25.",
+    "id": "8187",
+    "name": "STRZYŻOWSKA Lena",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "27.054",
+      "333 m": "39.662",
+      "500 m": "57.678",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "42.",
+    "id": "7323",
+    "name": "URBANOVA Lea",
+    "bestTimes": {
+      "111,12 m": "17.345",
+      "222 m": "27.240",
+      "333 m": "39.611",
+      "500 m": "59.014",
+      "777 m": "1:36.850",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "43.",
+    "id": "5700",
+    "name": "VASTUSKOVA Lenka",
+    "bestTimes": {
+      "111,12 m": "13.374",
+      "222 m": "26.929",
+      "333 m": "38.718",
+      "500 m": "58.852",
+      "777 m": "1:35.617",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "21.",
+    "id": "6477",
+    "name": "MARINKA-TÓTH Réka",
+    "bestTimes": {
+      "111,12 m": "19.629",
+      "222 m": "27.767",
+      "333 m": "39.589",
+      "500 m": "1:00.252",
+      "777 m": "1:37.276",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "36.",
+    "id": "7319",
+    "name": "OCHLANOVA Barbora",
+    "bestTimes": {
+      "111,12 m": "16.947",
+      "222 m": "27.829",
+      "333 m": "40.387",
+      "500 m": "59.411",
+      "777 m": "1:35.441",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "18.",
+    "id": "7272",
+    "name": "SZABÓ Hanna",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "27.246",
+      "333 m": "40.770",
+      "500 m": "59.141",
+      "777 m": "1:34.851",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "40.",
+    "id": "7317",
+    "name": "SOLTESOVA Sofia",
+    "bestTimes": {
+      "111,12 m": "16.438",
+      "222 m": "28.931",
+      "333 m": "41.084",
+      "500 m": "1:01.983",
+      "777 m": "1:44.621",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "39.",
+    "id": "7215",
+    "name": "SKLADANA Michaela",
+    "bestTimes": {
+      "111,12 m": "16.121",
+      "222 m": "28.610",
+      "333 m": "42.494",
+      "500 m": "1:01.919",
+      "777 m": "1:48.613",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "88.",
+    "id": "7378",
+    "name": "PISARCIKOVA Laura",
+    "bestTimes": {
+      "111,12 m": "16.050",
+      "222 m": "28.681",
+      "333 m": "41.109",
+      "500 m": "1:03.468",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "41.",
+    "id": "7374",
+    "name": "VERESPEJOVA Vanesa",
+    "bestTimes": {
+      "111,12 m": "16.252",
+      "222 m": "28.883",
+      "333 m": "42.831",
+      "500 m": "1:06.199",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "9",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "35.",
+    "id": "7318",
+    "name": "MICHALCIK Darja",
+    "bestTimes": {
+      "111,12 m": "15.377",
+      "222 m": "27.776",
+      "333 m": "40.429",
+      "500 m": "1:00.639",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "9",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "34.",
+    "id": "7368",
+    "name": "MARCINOVA Annamaria",
+    "bestTimes": {
+      "111,12 m": "16.144",
+      "222 m": "28.906",
+      "333 m": "41.363",
+      "500 m": "1:02.889",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "9",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "29.",
+    "id": "7315",
+    "name": "CERVA Lea",
+    "bestTimes": {
+      "111,12 m": "18.191",
+      "222 m": "29.518",
+      "333 m": "42.946",
+      "500 m": "1:02.485",
+      "777 m": "1:43.365",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "37.",
+    "id": "7451",
+    "name": "ORSULAKOVA Natalia",
+    "bestTimes": {
+      "111,12 m": "16.981",
+      "222 m": "27.588",
+      "333 m": "40.819",
+      "500 m": "1:00.217",
+      "777 m": "1:37.719",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "28.",
+    "id": "7383",
+    "name": "SEKERAKOVA Daniela",
+    "bestTimes": {
+      "111,12 m": "17.366",
+      "222 m": "31.024",
+      "333 m": "45.845",
+      "500 m": "1:08.136",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "9",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "24.",
+    "id": "8257",
+    "name": "OPAR Kornelia",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "30.593",
+      "333 m": "43.883",
+      "500 m": "1:06.818",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "38.",
+    "id": "7316",
+    "name": "RITOCHOVA Tereza",
+    "bestTimes": {
+      "111,12 m": "16.152",
+      "222 m": "29.693",
+      "333 m": "43.339",
+      "500 m": "1:06.700",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "9",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "32.",
+    "id": "8274",
+    "name": "KAMENICKA Tina",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "32.066",
+      "333 m": "47.606",
+      "500 m": "1:11.201",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "31.",
+    "id": "7905",
+    "name": "HRICOVA Nikola",
+    "bestTimes": {
+      "111,12 m": "27.793",
+      "222 m": "32.077",
+      "333 m": "46.505",
+      "500 m": "1:09.431",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "33.",
+    "id": "8284",
+    "name": "LESKOVA Lenka",
+    "bestTimes": {
+      "111,12 m": "19.034",
+      "222 m": "31.344",
+      "333 m": "46.743",
+      "500 m": "1:11.671",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "9",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "27.",
+    "id": "8432",
+    "name": "NOVOTNA Nikola",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "36.443",
+      "333 m": "52.314",
+      "500 m": "1:18.750",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "45.",
+    "id": "4675",
+    "name": "OGULEVICIUS Lukas",
+    "bestTimes": {
+      "111,12 m": "15.549",
+      "222 m": "25.733",
+      "333 m": "38.211",
+      "500 m": "54.913",
+      "777 m": "2:27.514",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "EDL"
+  },
+  {
+    "helmetNumber": "47.",
+    "id": "7308",
+    "name": "GOGA Matus",
+    "bestTimes": {
+      "111,12 m": "15.165",
+      "222 m": "26.515",
+      "333 m": "37.597",
+      "500 m": "58.548",
+      "777 m": "1:31.871",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "44.",
+    "id": "7302",
+    "name": "FÖLDI Dávid",
+    "bestTimes": {
+      "111,12 m": "30.464",
+      "222 m": "27.571",
+      "333 m": "39.730",
+      "500 m": "1:02.451",
+      "777 m": "1:38.467",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "9",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "53.",
+    "id": "5822",
+    "name": "KARPINSKY Oliver",
+    "bestTimes": {
+      "111,12 m": "16.361",
+      "222 m": "28.062",
+      "333 m": "40.964",
+      "500 m": "1:01.780",
+      "777 m": "1:47.147",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "11",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "48.",
+    "id": "7760",
+    "name": "HARCAR               Tadeas",
+    "bestTimes": {
+      "111,12 m": "16.323",
+      "222 m": "27.790",
+      "333 m": "41.810",
+      "500 m": "1:02.885",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "51.",
+    "id": "7327",
+    "name": "SPODNIK Samuel",
+    "bestTimes": {
+      "111,12 m": "20.385",
+      "222 m": "29.274",
+      "333 m": "42.898",
+      "500 m": "1:05.303",
+      "777 m": "1:49.603",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "52.",
+    "id": "7371",
+    "name": "MISCIK Adam",
+    "bestTimes": {
+      "111,12 m": "16.879",
+      "222 m": "29.160",
+      "333 m": "42.343",
+      "500 m": "1:04.104",
+      "777 m": "1:32.166",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "49.",
+    "id": "8271",
+    "name": "GLIGANIC Viktor",
+    "bestTimes": {
+      "111,12 m": "17.423",
+      "222 m": "30.519",
+      "333 m": "45.120",
+      "500 m": "1:06.940",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "30.",
+    "id": "9056",
+    "name": "HRIZO David",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "34.322",
+      "333 m": "51.191",
+      "500 m": "1:16.406",
+      "777 m": "",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "10",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "46.",
+    "id": "7407",
+    "name": "GAJDOS Saimon",
+    "bestTimes": {
+      "111,12 m": "21.590",
+      "222 m": "37.474",
+      "333 m": "56.793",
+      "500 m": "1:24.468",
+      "777 m": "2:32.285",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "11",
+    "AgeCategory": "Junior E  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "57.",
+    "id": "5963",
+    "name": "GAZSI Noémi",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "23.460",
+      "333 m": "32.207",
+      "500 m": "47.682",
+      "777 m": "1:15.218",
+      "1000 m": "1:39.198",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "60.",
+    "id": "6482",
+    "name": "TACZMAN Mira",
+    "bestTimes": {
+      "111,12 m": "48.267",
+      "222 m": "26.974",
+      "333 m": "34.731",
+      "500 m": "49.657",
+      "777 m": "1:17.066",
+      "1000 m": "1:42.292",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "79.",
+    "id": "5450",
+    "name": "MOISIEIEVA Kateryna",
+    "bestTimes": {
+      "111,12 m": "14.321",
+      "222 m": "24.757",
+      "333 m": "33.266",
+      "500 m": "50.199",
+      "777 m": "1:17.441",
+      "1000 m": "1:45.168",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "58.",
+    "id": "5094",
+    "name": "MARINKA-TÓTH Anna",
+    "bestTimes": {
+      "111,12 m": "51.995",
+      "222 m": "25.143",
+      "333 m": "34.925",
+      "500 m": "51.394",
+      "777 m": "1:21.654",
+      "1000 m": "1:49.108",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "75.",
+    "id": "7406",
+    "name": "TANCOSOVA Alexandra",
+    "bestTimes": {
+      "111,12 m": "33.375",
+      "222 m": "25.571",
+      "333 m": "36.477",
+      "500 m": "54.328",
+      "777 m": "1:28.298",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "76.",
+    "id": "5699",
+    "name": "DUDASOVA Michaela",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "27.560",
+      "333 m": "36.613",
+      "500 m": "54.438",
+      "777 m": "1:27.480",
+      "1000 m": "2:02.852",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "74.",
+    "id": "7379",
+    "name": "STOFANOVA Sofia",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "28.926",
+      "333 m": "38.174",
+      "500 m": "57.490",
+      "777 m": "1:29.812",
+      "1000 m": "2:01.603",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "55.",
+    "id": "6620",
+    "name": "HUMICSKÓ Gréta",
+    "bestTimes": {
+      "111,12 m": "34.835",
+      "222 m": "34.185",
+      "333 m": "37.594",
+      "500 m": "55.220",
+      "777 m": "1:29.622",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "59.",
+    "id": "5968",
+    "name": "SZABÓ Janka",
+    "bestTimes": {
+      "111,12 m": "46.380",
+      "222 m": "26.499",
+      "333 m": "37.412",
+      "500 m": "56.234",
+      "777 m": "1:30.156",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "77.",
+    "id": "8725",
+    "name": "DZUROVA Juliana",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "27.035",
+      "333 m": "38.980",
+      "500 m": "59.004",
+      "777 m": "1:30.253",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "61.",
+    "id": "7311",
+    "name": "JAGNISZCZAK Aleksandra",
+    "bestTimes": {
+      "111,12 m": "17.165",
+      "222 m": "26.857",
+      "333 m": "38.135",
+      "500 m": "56.342",
+      "777 m": "1:41.425",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "70.",
+    "id": "7313",
+    "name": "NEUPAUEROVA Viktoria",
+    "bestTimes": {
+      "111,12 m": "53.207",
+      "222 m": "28.324",
+      "333 m": "38.035",
+      "500 m": "58.128",
+      "777 m": "1:29.287",
+      "1000 m": "2:04.729",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "72.",
+    "id": "7314",
+    "name": "SINAYOVA Tereza",
+    "bestTimes": {
+      "111,12 m": "30.370",
+      "222 m": "27.743",
+      "333 m": "39.864",
+      "500 m": "59.146",
+      "777 m": "1:31.398",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "78.",
+    "id": "7845",
+    "name": "PACAKOVA Margareta",
+    "bestTimes": {
+      "111,12 m": "20.835",
+      "222 m": "28.112",
+      "333 m": "38.614",
+      "500 m": "58.616",
+      "777 m": "1:45.835",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "62.",
+    "id": "6517",
+    "name": "SZAŁAJKO Aleksandra",
+    "bestTimes": {
+      "111,12 m": "19.728",
+      "222 m": "27.441",
+      "333 m": "39.498",
+      "500 m": "59.527",
+      "777 m": "1:33.930",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "56.",
+    "id": "8147",
+    "name": "PALKÓ   Noémi Lili",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "40.300",
+      "500 m": "58.903",
+      "777 m": "1:34.957",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "64.",
+    "id": "5829",
+    "name": "MARUSAKOVA Alexandra",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "29.378",
+      "333 m": "40.904",
+      "500 m": "1:00.995",
+      "777 m": "1:35.328",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "63.",
+    "id": "7727",
+    "name": "KOZELOVA Veronika",
+    "bestTimes": {
+      "111,12 m": "17.594",
+      "222 m": "27.733",
+      "333 m": "41.327",
+      "500 m": "1:02.060",
+      "777 m": "1:42.213",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "68.",
+    "id": "7369",
+    "name": "MARCINOVA Sara",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "29.700",
+      "333 m": "41.553",
+      "500 m": "1:01.540",
+      "777 m": "1:37.752",
+      "1000 m": "2:14.199",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "69.",
+    "id": "7370",
+    "name": "MARCINOVA Sofia",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "30.228",
+      "333 m": "40.610",
+      "500 m": "1:00.814",
+      "777 m": "1:37.580",
+      "1000 m": "2:04.534",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "73.",
+    "id": "8280",
+    "name": "SOTAKOVA Natália",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "46.356",
+      "500 m": "1:09.173",
+      "777 m": "1:46.752",
+      "1000 m": "2:47.027",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "67.",
+    "id": "8275",
+    "name": "KUSNIROVA Sofia",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "33.525",
+      "333 m": "45.144",
+      "500 m": "1:10.404",
+      "777 m": "1:51.278",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "71.",
+    "id": "7372",
+    "name": "PAULIKOVA Olivia",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "33.215",
+      "333 m": "48.117",
+      "500 m": "1:09.419",
+      "777 m": "1:59.644",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "65.",
+    "id": "8048",
+    "name": "GUMANOVA Olivia",
+    "bestTimes": {
+      "111,12 m": "24.216",
+      "222 m": "47.506",
+      "333 m": "48.007",
+      "500 m": "1:10.027",
+      "777 m": "1:54.203",
+      "1000 m": "2:33.012",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "66.",
+    "id": "7366",
+    "name": "HLAVATA Karolina",
+    "bestTimes": {
+      "111,12 m": "21.837",
+      "222 m": "41.348",
+      "333 m": "51.943",
+      "500 m": "1:15.218",
+      "777 m": "1:59.184",
+      "1000 m": "2:33.614",
+      "1500 m": ""
+    },
+    "Gender": "Woman",
+    "Age": "13",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "82.",
+    "id": "6476",
+    "name": "BOROS Bence",
+    "bestTimes": {
+      "111,12 m": "28.784",
+      "222 m": "25.758",
+      "333 m": "35.479",
+      "500 m": "50.832",
+      "777 m": "1:20.273",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "84.",
+    "id": "5967",
+    "name": "GONDA Gergő",
+    "bestTimes": {
+      "111,12 m": "42.725",
+      "222 m": "25.313",
+      "333 m": "33.952",
+      "500 m": "49.275",
+      "777 m": "1:20.035",
+      "1000 m": "1:43.863",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "92.",
+    "id": "7216",
+    "name": "MIHALIK Patrik",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "28.117",
+      "333 m": "38.472",
+      "500 m": "55.093",
+      "777 m": "1:27.772",
+      "1000 m": "1:57.278",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "81.",
+    "id": "8143",
+    "name": "UDVARI  Hunor",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "35.578",
+      "500 m": "50.915",
+      "777 m": "1:20.337",
+      "1000 m": "1:58.707",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "13",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "80.",
+    "id": "6308",
+    "name": "REPKA Nándor",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "28.212",
+      "333 m": "38.683",
+      "500 m": "58.364",
+      "777 m": "1:29.591",
+      "1000 m": "2:05.836",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "13",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "DVTK"
+  },
+  {
+    "helmetNumber": "89.",
+    "id": "7307",
+    "name": "GOGA Juraj",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "28.134",
+      "333 m": "38.505",
+      "500 m": "54.845",
+      "777 m": "1:29.148",
+      "1000 m": "1:57.247",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "87.",
+    "id": "5961",
+    "name": "KÁRMÁN-NAGY Domonkos",
+    "bestTimes": {
+      "111,12 m": "31.983",
+      "222 m": "27.795",
+      "333 m": "37.984",
+      "500 m": "56.458",
+      "777 m": "1:29.480",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "100.",
+    "id": "9054",
+    "name": "KURSENKO Oleksandr",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "38.716",
+      "500 m": "55.587",
+      "777 m": "1:29.980",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "13",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "90.",
+    "id": "7759",
+    "name": "HARCAR    Teodor Peter",
+    "bestTimes": {
+      "111,12 m": "19.103",
+      "222 m": "36.779",
+      "333 m": "42.700",
+      "500 m": "1:03.776",
+      "777 m": "1:44.348",
+      "1000 m": "2:12.656",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "93.",
+    "id": "8270",
+    "name": "GDOVIN Filip",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "30.344",
+      "333 m": "42.801",
+      "500 m": "1:04.670",
+      "777 m": "1:39.722",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "85.",
+    "id": "8621",
+    "name": "GONDA Olivér",
+    "bestTimes": {
+      "111,12 m": "32.033",
+      "222 m": "29.333",
+      "333 m": "42.260",
+      "500 m": "1:04.912",
+      "777 m": "1:41.070",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "JSE"
+  },
+  {
+    "helmetNumber": "91.",
+    "id": "6019",
+    "name": "MARCIN David",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "31.689",
+      "333 m": "43.895",
+      "500 m": "1:05.299",
+      "777 m": "1:47.322",
+      "1000 m": "",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "11",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "94.",
+    "id": "7755",
+    "name": "MAJIRSKY Maros",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "34.587",
+      "333 m": "47.302",
+      "500 m": "1:07.527",
+      "777 m": "1:44.630",
+      "1000 m": "2:13.454",
+      "1500 m": ""
+    },
+    "Gender": "Men",
+    "Age": "12",
+    "AgeCategory": "Junior D  Novice A",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "139.",
+    "id": "4921",
+    "name": "REPETSKA Svitlana",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "46.241",
+      "777 m": "",
+      "1000 m": "1:35.614",
+      "1500 m": "2:29.529"
+    },
+    "Gender": "Woman",
+    "Age": "19",
+    "AgeCategory": "Senior",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "145.",
+    "id": "5033",
+    "name": "SYDORKO Yelyzaveta",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "44.617",
+      "777 m": "",
+      "1000 m": "1:35.895",
+      "1500 m": "2:33.301"
+    },
+    "Gender": "Woman",
+    "Age": "19",
+    "AgeCategory": "Junior A",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "141.",
+    "id": "3708",
+    "name": "ADAMENKO Kseniya",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "33.751",
+      "500 m": "45.183",
+      "777 m": "1:19.389",
+      "1000 m": "1:35.755",
+      "1500 m": "2:27.849"
+    },
+    "Gender": "Woman",
+    "Age": "18",
+    "AgeCategory": "Junior A",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "127.",
+    "id": "1409",
+    "name": "JANSONE Anna",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "25.283",
+      "333 m": "34.526",
+      "500 m": "46.649",
+      "777 m": "1:19.279",
+      "1000 m": "1:35.520",
+      "1500 m": "2:28.940"
+    },
+    "Gender": "Woman",
+    "Age": "19",
+    "AgeCategory": "Senior",
+    "Team": "SPARS"
+  },
+  {
+    "helmetNumber": "118.",
+    "id": "4649",
+    "name": "GÁKOVÁ Barbora",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "47.982",
+      "777 m": "1:22.014",
+      "1000 m": "1:38.278",
+      "1500 m": "2:28.763"
+    },
+    "Gender": "Woman",
+    "Age": "17",
+    "AgeCategory": "Junior A",
+    "Team": "BZKP"
+  },
+  {
+    "helmetNumber": "143.",
+    "id": "4529",
+    "name": "KHOKHELKO Mariia",
+    "bestTimes": {
+      "111,12 m": "14.977",
+      "222 m": "25.361",
+      "333 m": "35.695",
+      "500 m": "47.785",
+      "777 m": "1:17.912",
+      "1000 m": "1:37.515",
+      "1500 m": "2:37.301"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior C",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "142.",
+    "id": "4166",
+    "name": "DUBROVA Uliana",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "46.286",
+      "777 m": "",
+      "1000 m": "1:36.725",
+      "1500 m": "2:32.018"
+    },
+    "Gender": "Woman",
+    "Age": "21",
+    "AgeCategory": "Senior",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "140.",
+    "id": "4167",
+    "name": "SELIUKOVA Myroslava",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "34.910",
+      "500 m": "45.850",
+      "777 m": "1:20.606",
+      "1000 m": "1:36.463",
+      "1500 m": "2:29.406"
+    },
+    "Gender": "Woman",
+    "Age": "19",
+    "AgeCategory": "Junior A",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "136.",
+    "id": "4695",
+    "name": "POPOVICOVA Lea",
+    "bestTimes": {
+      "111,12 m": "17.971",
+      "222 m": "25.415",
+      "333 m": "34.904",
+      "500 m": "47.283",
+      "777 m": "1:19.433",
+      "1000 m": "1:39.957",
+      "1500 m": "2:37.349"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "119.",
+    "id": "3253",
+    "name": "KUDLÁČKOVÁ Eliška",
+    "bestTimes": {
+      "111,12 m": "16.668",
+      "222 m": "25.108",
+      "333 m": "36.060",
+      "500 m": "49.712",
+      "777 m": "1:18.879",
+      "1000 m": "1:43.167",
+      "1500 m": "2:43.009"
+    },
+    "Gender": "Woman",
+    "Age": "16",
+    "AgeCategory": "Junior B",
+    "Team": "STCZ"
+  },
+  {
+    "helmetNumber": "134.",
+    "id": "1532",
+    "name": "HYMPANOVA Emma",
+    "bestTimes": {
+      "111,12 m": "15.923",
+      "222 m": "27.119",
+      "333 m": "32.527",
+      "500 m": "46.836",
+      "777 m": "1:20.363",
+      "1000 m": "1:35.440",
+      "1500 m": "2:34.743"
+    },
+    "Gender": "Woman",
+    "Age": "19",
+    "AgeCategory": "Senior",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "129.",
+    "id": "4634",
+    "name": "ASTRAUSKAITE Gabija",
+    "bestTimes": {
+      "111,12 m": "20.479",
+      "222 m": "32.925",
+      "333 m": "36.063",
+      "500 m": "47.558",
+      "777 m": "1:21.061",
+      "1000 m": "1:36.971",
+      "1500 m": "2:28.672"
+    },
+    "Gender": "Woman",
+    "Age": "17",
+    "AgeCategory": "Junior A",
+    "Team": "SSC"
+  },
+  {
+    "helmetNumber": "144.",
+    "id": "201",
+    "name": "MYKHALCHUK Diana",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "47.481",
+      "777 m": "",
+      "1000 m": "1:36.218",
+      "1500 m": "2:33.373"
+    },
+    "Gender": "Woman",
+    "Age": "30",
+    "AgeCategory": "Senior",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "123.",
+    "id": "3091",
+    "name": "POPLOVA Michaela",
+    "bestTimes": {
+      "111,12 m": "15.386",
+      "222 m": "25.279",
+      "333 m": "36.181",
+      "500 m": "47.839",
+      "777 m": "1:19.341",
+      "1000 m": "1:36.499",
+      "1500 m": "2:31.346"
+    },
+    "Gender": "Woman",
+    "Age": "17",
+    "AgeCategory": "Junior A",
+    "Team": "BZKP"
+  },
+  {
+    "helmetNumber": "138.",
+    "id": "8206",
+    "name": "KREMER Veronika",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "48.451",
+      "777 m": "",
+      "1000 m": "1:38.986",
+      "1500 m": "2:41.063"
+    },
+    "Gender": "Woman",
+    "Age": "16",
+    "AgeCategory": "Junior B",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "128.",
+    "id": "3682",
+    "name": "SALMINA Kamilla",
+    "bestTimes": {
+      "111,12 m": "15.637",
+      "222 m": "26.256",
+      "333 m": "38.093",
+      "500 m": "47.761",
+      "777 m": "1:24.869",
+      "1000 m": "1:39.327",
+      "1500 m": "2:39.276"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "SPARS"
+  },
+  {
+    "helmetNumber": "126.",
+    "id": "4286",
+    "name": "GROSBERGA Ance",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "28.014",
+      "333 m": "38.719",
+      "500 m": "48.744",
+      "777 m": "1:27.171",
+      "1000 m": "1:38.343",
+      "1500 m": "2:33.106"
+    },
+    "Gender": "Woman",
+    "Age": "17",
+    "AgeCategory": "Junior A",
+    "Team": "JLSS"
+  },
+  {
+    "helmetNumber": "117.",
+    "id": "3789",
+    "name": "BLAHOVA Eva",
+    "bestTimes": {
+      "111,12 m": "16.885",
+      "222 m": "26.862",
+      "333 m": "39.079",
+      "500 m": "48.602",
+      "777 m": "1:16.884",
+      "1000 m": "1:41.699",
+      "1500 m": "2:41.348"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "STCZ"
+  },
+  {
+    "helmetNumber": "130.",
+    "id": "3496",
+    "name": "LEVICKYTE Valentina",
+    "bestTimes": {
+      "111,12 m": "15.931",
+      "222 m": "25.391",
+      "333 m": "36.296",
+      "500 m": "49.041",
+      "777 m": "1:17.673",
+      "1000 m": "1:42.729",
+      "1500 m": "2:45.354"
+    },
+    "Gender": "Woman",
+    "Age": "16",
+    "AgeCategory": "Junior B",
+    "Team": "SSC"
+  },
+  {
+    "helmetNumber": "135.",
+    "id": "4726",
+    "name": "IZAROVA Michaela",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "27.183",
+      "333 m": "34.656",
+      "500 m": "48.300",
+      "777 m": "1:16.848",
+      "1000 m": "1:38.146",
+      "1500 m": "2:31.590"
+    },
+    "Gender": "Woman",
+    "Age": "17",
+    "AgeCategory": "Junior B",
+    "Team": "SKMA"
+  },
+  {
+    "helmetNumber": "125.",
+    "id": "3897",
+    "name": "GINTERE Madara",
+    "bestTimes": {
+      "111,12 m": "15.880",
+      "222 m": "26.532",
+      "333 m": "38.469",
+      "500 m": "49.568",
+      "777 m": "1:20.133",
+      "1000 m": "1:43.332",
+      "1500 m": "2:49.430"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "JLSS"
+  },
+  {
+    "helmetNumber": "137.",
+    "id": "5038",
+    "name": "DEMOCHKO Diana",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "25.257",
+      "333 m": "36.376",
+      "500 m": "48.598",
+      "777 m": "1:22.088",
+      "1000 m": "1:45.699",
+      "1500 m": "3:07.082"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "132.",
+    "id": "4824",
+    "name": "KOGUT Julia",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "27.526",
+      "333 m": "39.710",
+      "500 m": "51.332",
+      "777 m": "1:22.007",
+      "1000 m": "1:45.874",
+      "1500 m": "2:46.474"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "124.",
+    "id": "4283",
+    "name": "EKERTE Paula",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "30.035",
+      "333 m": "44.199",
+      "500 m": "49.251",
+      "777 m": "1:26.985",
+      "1000 m": "1:43.739",
+      "1500 m": "2:43.468"
+    },
+    "Gender": "Woman",
+    "Age": "17",
+    "AgeCategory": "Junior A",
+    "Team": "JLSS"
+  },
+  {
+    "helmetNumber": "133.",
+    "id": "7785",
+    "name": "RĄPAŁA Karolina",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "53.856",
+      "777 m": "1:26.135",
+      "1000 m": "1:51.038",
+      "1500 m": "2:49.118"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "131.",
+    "id": "8160",
+    "name": "BODNAR Maja",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "51.331",
+      "777 m": "1:23.471",
+      "1000 m": "1:50.418",
+      "1500 m": "2:49.217"
+    },
+    "Gender": "Woman",
+    "Age": "18",
+    "AgeCategory": "Junior A",
+    "Team": "MOSIR"
+  },
+  {
+    "helmetNumber": "120.",
+    "id": "6488",
+    "name": "KUNSTMÜLLEROVÁ Nina",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "55.010",
+      "777 m": "",
+      "1000 m": "1:57.129",
+      "1500 m": "2:59.148"
+    },
+    "Gender": "Woman",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "STCZ"
+  },
+  {
+    "helmetNumber": "158.",
+    "id": "4918",
+    "name": "FEDORENKO Danylo",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "42.862",
+      "777 m": "",
+      "1000 m": "1:27.135",
+      "1500 m": "2:18.615"
+    },
+    "Gender": "Men",
+    "Age": "21",
+    "AgeCategory": "Senior",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "165.",
+    "id": "1165",
+    "name": "HANDEI Oleh",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "43.539",
+      "500 m": "42.508",
+      "777 m": "1:18.274",
+      "1000 m": "1:28.109",
+      "1500 m": "2:15.050"
+    },
+    "Gender": "Men",
+    "Age": "24",
+    "AgeCategory": "Senior",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "148.",
+    "id": "3294",
+    "name": "SOLEICUKS Maksims",
+    "bestTimes": {
+      "111,12 m": "13.944",
+      "222 m": "23.196",
+      "333 m": "34.305",
+      "500 m": "44.088",
+      "777 m": "1:14.061",
+      "1000 m": "1:32.572",
+      "1500 m": "2:19.571"
+    },
+    "Gender": "Men",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "SPARS"
+  },
+  {
+    "helmetNumber": "157.",
+    "id": "5132",
+    "name": "BERGIN Daniil",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "43.938",
+      "777 m": "",
+      "1000 m": "1:28.638",
+      "1500 m": "2:19.705"
+    },
+    "Gender": "Men",
+    "Age": "18",
+    "AgeCategory": "Junior A",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "159.",
+    "id": "7293",
+    "name": "LEONTENKO Rostyslav",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "43.172",
+      "777 m": "",
+      "1000 m": "1:28.161",
+      "1500 m": "7.000"
+    },
+    "Gender": "Men",
+    "Age": "19",
+    "AgeCategory": "Junior A",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "168.",
+    "id": "4213",
+    "name": "MOROZOV Yaroslav",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "37.431",
+      "500 m": "43.135",
+      "777 m": "1:23.383",
+      "1000 m": "1:28.888",
+      "1500 m": "2:17.807"
+    },
+    "Gender": "Men",
+    "Age": "19",
+    "AgeCategory": "Junior A",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "160.",
+    "id": "5133",
+    "name": "MOSHENSKYI Bohdan",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "44.389",
+      "777 m": "",
+      "1000 m": "1:35.340",
+      "1500 m": "3.000"
+    },
+    "Gender": "Men",
+    "Age": "19",
+    "AgeCategory": "Senior",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "149.",
+    "id": "1643",
+    "name": "STERNMANIS Maris Janis",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "25.210",
+      "333 m": "36.182",
+      "500 m": "43.788",
+      "777 m": "1:21.460",
+      "1000 m": "1:29.891",
+      "1500 m": "2:21.840"
+    },
+    "Gender": "Men",
+    "Age": "19",
+    "AgeCategory": "Junior A",
+    "Team": "JLSS"
+  },
+  {
+    "helmetNumber": "161.",
+    "id": "4604",
+    "name": "NEMIRO Nikita",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "43.462",
+      "777 m": "",
+      "1000 m": "1:29.690",
+      "1500 m": "2:21.446"
+    },
+    "Gender": "Men",
+    "Age": "24",
+    "AgeCategory": "Senior",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "155.",
+    "id": "2778",
+    "name": "KARABIN Jakub",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "28.203",
+      "333 m": "40.160",
+      "500 m": "44.625",
+      "777 m": "1:20.216",
+      "1000 m": "1:34.510",
+      "1500 m": "2:25.476"
+    },
+    "Gender": "Men",
+    "Age": "18",
+    "AgeCategory": "Junior A",
+    "Team": "STEZ"
+  },
+  {
+    "helmetNumber": "146.",
+    "id": "3431",
+    "name": "KANBERGS Valters",
+    "bestTimes": {
+      "111,12 m": "14.488",
+      "222 m": "24.458",
+      "333 m": "34.071",
+      "500 m": "43.554",
+      "777 m": "1:13.916",
+      "1000 m": "1:30.001",
+      "1500 m": "2:22.495"
+    },
+    "Gender": "Men",
+    "Age": "17",
+    "AgeCategory": "Junior B",
+    "Team": "SPARS"
+  },
+  {
+    "helmetNumber": "162.",
+    "id": "3229",
+    "name": "NEMIRO Vladyslav",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "43.613",
+      "777 m": "",
+      "1000 m": "1:27.204",
+      "1500 m": "2:18.191"
+    },
+    "Gender": "Men",
+    "Age": "26",
+    "AgeCategory": "Senior",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "151.",
+    "id": "3499",
+    "name": "CECH Ernestas",
+    "bestTimes": {
+      "111,12 m": "15.100",
+      "222 m": "25.547",
+      "333 m": "35.926",
+      "500 m": "44.687",
+      "777 m": "1:15.077",
+      "1000 m": "1:33.659",
+      "1500 m": "2:24.353"
+    },
+    "Gender": "Men",
+    "Age": "16",
+    "AgeCategory": "Junior B",
+    "Team": "SSC"
+  },
+  {
+    "helmetNumber": "147.",
+    "id": "4258",
+    "name": "KITOKS Tomass",
+    "bestTimes": {
+      "111,12 m": "16.324",
+      "222 m": "25.003",
+      "333 m": "35.885",
+      "500 m": "44.641",
+      "777 m": "1:17.714",
+      "1000 m": "1:31.751",
+      "1500 m": "2:25.294"
+    },
+    "Gender": "Men",
+    "Age": "16",
+    "AgeCategory": "Junior B",
+    "Team": "SPARS"
+  },
+  {
+    "helmetNumber": "152.",
+    "id": "4307",
+    "name": "HYJEK Filip",
+    "bestTimes": {
+      "111,12 m": "16.182",
+      "222 m": "25.540",
+      "333 m": "36.854",
+      "500 m": "47.114",
+      "777 m": "1:17.671",
+      "1000 m": "1:36.922",
+      "1500 m": "2:29.929"
+    },
+    "Gender": "Men",
+    "Age": "14",
+    "AgeCategory": "Junior C",
+    "Team": "AZSO"
+  },
+  {
+    "helmetNumber": "166.",
+    "id": "3602",
+    "name": "IOFIN Denys",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "44.058",
+      "777 m": "",
+      "1000 m": "1:32.356",
+      "1500 m": "2:27.264"
+    },
+    "Gender": "Men",
+    "Age": "22",
+    "AgeCategory": "Senior",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "167.",
+    "id": "4530",
+    "name": "KHOKHELKO Tymofii",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "36.587",
+      "500 m": "43.529",
+      "777 m": "1:18.682",
+      "1000 m": "1:29.565",
+      "1500 m": "2:17.898"
+    },
+    "Gender": "Men",
+    "Age": "18",
+    "AgeCategory": "Junior A",
+    "Team": "KYIV"
+  },
+  {
+    "helmetNumber": "153.",
+    "id": "1870",
+    "name": "HUNADY Jakub",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "28.670",
+      "333 m": "40.917",
+      "500 m": "46.699",
+      "777 m": "1:32.981",
+      "1000 m": "1:33.794",
+      "1500 m": "2:33.597"
+    },
+    "Gender": "Men",
+    "Age": "20",
+    "AgeCategory": "Senior",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "150.",
+    "id": "3901",
+    "name": "STERNMANIS Rudolfs",
+    "bestTimes": {
+      "111,12 m": "15.827",
+      "222 m": "26.571",
+      "333 m": "38.276",
+      "500 m": "47.877",
+      "777 m": "1:27.429",
+      "1000 m": "1:39.472",
+      "1500 m": "2:47.663"
+    },
+    "Gender": "Men",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "JLSS"
+  },
+  {
+    "helmetNumber": "154.",
+    "id": "4560",
+    "name": "MARCIN Damian",
+    "bestTimes": {
+      "111,12 m": "25.790",
+      "222 m": "34.799",
+      "333 m": "41.066",
+      "500 m": "48.091",
+      "777 m": "1:25.439",
+      "1000 m": "1:35.145",
+      "1500 m": "2:46.377"
+    },
+    "Gender": "Men",
+    "Age": "16",
+    "AgeCategory": "Junior B",
+    "Team": "PRK"
+  },
+  {
+    "helmetNumber": "163.",
+    "id": "7273",
+    "name": "SPORYSH Maksym",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "48.036",
+      "777 m": "1:21.656",
+      "1000 m": "1:36.976",
+      "1500 m": "2:34.688"
+    },
+    "Gender": "Men",
+    "Age": "15",
+    "AgeCategory": "Junior B",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "164.",
+    "id": "5131",
+    "name": "TOPCHII Maksym",
+    "bestTimes": {
+      "111,12 m": "",
+      "222 m": "",
+      "333 m": "",
+      "500 m": "45.968",
+      "777 m": "1:28.273",
+      "1000 m": "1:34.029",
+      "1500 m": "2:27.485"
+    },
+    "Gender": "Men",
+    "Age": "18",
+    "AgeCategory": "Junior A",
+    "Team": "KHV"
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN MEN",
+    "bestTimes": {
+      "222 m": "0",
+      "333 m": "",
+      "500 m": "39.699",
+      "777 m": "",
+      "1000 m": "1:23.021",
+      "1500 m": "2:09.213",
+      "3000 m": "4:46.026"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR A MEN",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "40.483",
+      "777 m": "",
+      "1000 m": "1:23.600",
+      "1500 m": "2:14.056",
+      "3000 m": "4:51.389"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR B MEN",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "41.358",
+      "777 m": "",
+      "1000 m": "1:25.442",
+      "1500 m": "2:14.706",
+      "3000 m": "4:51.389"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR C BOYS",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "42.630",
+      "777 m": "",
+      "1000 m": "1:28.430",
+      "1500 m": "2:14.706",
+      "3000 m": "5:03.460"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR D BOYS",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "45.047",
+      "777 m": "1:12.098",
+      "1000 m": "1:34.786",
+      "1500 m": "2:28.080",
+      "3000 m": ""
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR E BOYS",
+    "bestTimes": {
+      "222 m": "24.011",
+      "333 m": "33.191",
+      "500 m": "48.783",
+      "777 m": "1:12.572",
+      "1000 m": "1:42.555",
+      "1500 m": "",
+      "3000 m": ""
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR F BOYS",
+    "bestTimes": {
+      "222 m": "24.949",
+      "333 m": "36.074",
+      "500 m": "53.332",
+      "777 m": "1:26.500",
+      "1000 m": "",
+      "1500 m": "",
+      "3000 m": ""
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN WOMEN",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "42.645",
+      "777 m": "",
+      "1000 m": "1:28.392",
+      "1500 m": "2:19.251",
+      "3000 m": "5:11.856"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR A WOMEN",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "42.895",
+      "777 m": "",
+      "1000 m": "1:29.369",
+      "1500 m": "2:20.554",
+      "3000 m": "5:21.211"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR B WOMEN",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "44.254",
+      "777 m": "",
+      "1000 m": "1:30.171",
+      "1500 m": "2:21.686",
+      "3000 m": "5:30.328"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR C GIRLS",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "45.393",
+      "777 m": "",
+      "1000 m": "1:32.993",
+      "1500 m": "2:23.532",
+      "3000 m": "5:30.328"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR D GIRLS",
+    "bestTimes": {
+      "222 m": "",
+      "333 m": "",
+      "500 m": "46.293",
+      "777 m": "1:12.642",
+      "1000 m": "1:38.669",
+      "1500 m": "2:37.411"
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR E GIRLS",
+    "bestTimes": {
+      "222 m": "23.460",
+      "333 m": "33.608",
+      "500 m": "49.082",
+      "777 m": "1:18.352",
+      "1000 m": "1:42.902",
+      "1500 m": ""
+    }
+  },
+  {
+    "helmetNumber": "999.",
+    "id": "0000",
+    "name": "HUN JUNIOR F GIRLS",
+    "bestTimes": {
+      "222 m": "25.986",
+      "333 m": "38.062",
+      "500 m": "56.486",
+      "777 m": "1:31.342",
+      "1000 m": "",
+      "1500 m": ""
+    }
+  }
+]
